@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Thiago Negreiros 👋
 
 ### About Me 🔭
-
 <p>
   <em>
    <b>Software Developer</b><br>
