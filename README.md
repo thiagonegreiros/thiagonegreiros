@@ -1,4 +1,4 @@
-### Hi there, Hi, I'm Thiago Negreiros from Manaus-Am, I am a web developer studying every day to improve my codes. ;) 👋
+### Hi there 👋, I'm Thiago Negreiros from Manaus-Am, I'm a web developer that studying every day to improve my codes.
 
 ### About Me 🔭
 <p>
