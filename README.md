@@ -4,7 +4,7 @@
 <p>
   <em>
    <b>Software Developer</b><br>
-   Company: <b>Grupo ICTS </b>;
+   Company: <b>SIDIA </b>;
   </em>  
 </p>
 
