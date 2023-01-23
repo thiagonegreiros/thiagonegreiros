@@ -4,7 +4,7 @@
 <p>
   <em>
    <b>Software Developer</b><br>
-   Company: <b>SIDIA </b>
+   Company: <b>NTTDATA </b>
   </em>  
 </p>
 
